@@ -1,6 +1,6 @@
 # SMS Spam Detection with SimpleRNN
 
-**Author:** Jane
+**Author:** Chea Dalin
 **Course project:** Deep Learning Final Exam (Option A2)
 
 ## 1. Problem Description
